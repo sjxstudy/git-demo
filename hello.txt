@@ -1,3 +1,4 @@
 hello git
-hjdiwdioq`ello git
-master
+hjdiwdioq`ello
+master:wq
+hot test
